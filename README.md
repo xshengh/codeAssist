@@ -1,1 +1,1 @@
-# codeAssist
+# code assistant
