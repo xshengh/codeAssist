@@ -1,0 +1,10 @@
+#command : sudo vim /usr/share/applications/AndroidStudio.desktop
+
+# Android studio
+[Desktop Entry]
+Name=AndroidStudio
+comment=android studio                                             
+Exec=/home/xshengh/tools/android-studio/bin/studio.sh
+Icon=/home/xshengh/tools/android-studio/bin/studio.png
+Terminal=false
+Type=Application
